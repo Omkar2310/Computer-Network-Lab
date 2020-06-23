@@ -5,7 +5,11 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
+<<<<<<< Updated upstream
 //analyzing the numbe rof packets transfered
+=======
+//Analyse the packets transfered omkar 
+>>>>>>> Stashed changes
 #include <bits/stdc++.h>
 #include<pcap.h>
 #include <arpa/inet.h>
